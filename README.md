@@ -1,6 +1,7 @@
 # Kids Computer Class
 
-Book: Teach Your Kids to Code
+# Book
+* [Teach Your Kids to Code](https://www.nostarch.com/teachkids): No Starch Press
 
 ## Chapter 1: Python Basics: Get to Know Your Environment
 

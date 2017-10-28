@@ -1,5 +1,7 @@
 import turtle
-t = turtle.Pen()
+
+panther_pen = turtle.Pen()
+
 for x in range(100):
-    t.circle(x)
-    t.left(91)
+    panther_pen.circle(x)
+    panther_pen.left(1)

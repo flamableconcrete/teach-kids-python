@@ -1,8 +1,11 @@
 import turtle
-turtle.bgcolor("black")
 t = turtle.Pen()
-colors = ["red", "yellow", "blue", "green"]
-for x in range(100):
-    t.pencolor(colors[x % 4])
-    t.forward(x)
-    t.left(91)
+turtle.bgcolor("black")
+colors = ["red",
+          "pink"]
+sides = len(colors)
+for x in range(360):
+    t.pencolor(colors[x % sides])
+    t.forward(x * 3/sides + x)
+    t.left(360/sides + 1)
+    t.width(x*sides/200)

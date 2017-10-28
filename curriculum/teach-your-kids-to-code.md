@@ -6,14 +6,14 @@
 
 Challenges
 
-* [ ] Mad Libs
-* [ ] More Mad Libs
+* [X] Mad Libs
+* [X] More Mad Libs
 
 ## Chapter 2: Turtle Graphics: Drawing with Python
 
 Challenges
 
-* [ ] Change number of sides
+* [X] Change number of sides
 * [ ] How many sides?
 * [ ] Rubber band ball
 
